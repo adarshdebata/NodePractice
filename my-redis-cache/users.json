@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "name": "random",
+      "email": "rand@example.com",
+      "age": 25,
+      "country": "Canada"
+    },
+    {
+        "id": 3,
+        "name": "Adarsh Debata",
+        "email": "adarsh@example.com",
+        "age": 24,
+        "country" : "India"
+    }
+  ]
+  
